@@ -1,36 +1,16 @@
-# 🧠 DSA Visualizer
+# DSA Visualizer – C++ Project
 
-A simple C++ console-based project that helps visualize core **Data Structures and Algorithms** like sorting, stacks, queues, trees, and graphs — all in one interactive menu-driven program.
-
----
-
-## 📌 Features
-
-🔢 **Sorting Algorithms**  
-- Bubble Sort  
-- Insertion Sort  
-- Step-by-step output for each pass
-
-🧱 **Stack Operations**  
-- Push, Pop, Display using STL `stack`
-
-📦 **Queue Operations**  
-- Enqueue, Dequeue, Display using STL `queue`
-
-🌐 **Graph Traversal**  
-- Build graph using adjacency list  
-- Traverse using **BFS** and **DFS**
-
-🌳 **Binary Tree Traversals**  
-- Build a binary tree  
-- Show **Inorder**, **Preorder**, and **Postorder**
+A console-based project developed in C++ to demonstrate core Data Structures and Algorithms through a menu-driven interface.
 
 ---
 
-## ▶️ How to Run
+## Key Highlights
 
-Make sure you have a C++ compiler like `g++`.
+- Written entirely in C++
+- Covers fundamental data structures and algorithms
+  - Sorting Algorithms: Bubble Sort, Insertion Sort
+  - Stack Operations: Push, Pop, Display
+  - Queue Operations: Enqueue, Dequeue, Display
+  - Graph Traversals: Breadth-First Search (BFS), Depth-First Search (DFS)
+  - Binary Tree Travers
 
-### Step 1: Compile the Code
-```bash
-g++ main.cpp -o main
